@@ -1,11 +1,27 @@
 {
   "categorias": {
-    "ANIMES_E_DESENHOS": {
+    "ANIMES": {
+      "tv:37584": { "topic_id": "33141", "title": "Ikkitousen - Os Anjos Guerreiros BY Troidex" },
+      "tv:88044": { "topic_id": "33143", "title": "Maou-sama Retry! BY Yusuke FLA" },
+      "tv:461499": { "topic_id": "33140", "title": "Rokudenashi Blues 1993 BY Yusuke FLA" },
+      "tv:130926": { "topic_id": "30001", "title": "Rokudenashi Blues 1993" },
       "tv:130926": { "topic_id": "30001", "title": "Jujutsu Kaisen" },
       "movie:14105": { "topic_id": "30002", "title": "Ponyo" }
     },
+    "DESENHOS": {
+      "tv:45140": { "topic_id": "29349", "title": "Os Jovens Titãs em Ação! BY Yatogam" },
+      "tv:5687": { "topic_id": "31396", "title": "Os Smurfs BY Yatogam" },
+      "tv:709": { "topic_id": "26153", "title": "Frango Robô BY Yatogam" },
+      "tv:478": { "topic_id": "32196", "title": "Capitão Planeta BY Yatogam" },
+      "tv:197052": { "topic_id": "33147", "title": "De Onde Vem? BY Yatogam" },
+      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" },
+      "tv:126506": { "topic_id": "25003", "title": "Smiling Friends BY Yatogam" }
+    },
     "SERIES": {
       "tv:100088": { "topic_id": "27236", "title": "The Last of Us BY Yatogam" },
+      "tv:97951": { "topic_id": "33146", "title": "O Dono de Kingstown BY eunaumtenhoid" },
+      "tv:1617": { "topic_id": "33145", "title": "Kingdom Hospital BY eunaumtenhoid" },
+      "tv:226637": { "topic_id": "31786", "title": "Uma Mente Excepcional BY eunaumtenhoid" },
       "tv:66732": { "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid" }
     },
     "FILMES_INTERNACIONAIS": {
@@ -18,5 +34,6 @@
     }
   }
 }
+
 
 
