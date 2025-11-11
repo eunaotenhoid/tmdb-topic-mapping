@@ -1,21 +1,20 @@
-
 {
   "categorias": {
     "ANIMES_E_DESENHOS": {
-      // ...
+      "tv:130926": { "topic_id": "30001", "title": "Jujutsu Kaisen" },
+      "movie:14105": { "topic_id": "30002", "title": "Ponyo" }
     },
     "SERIES": {
-      // ...
+      "tv:85848": { "topic_id": "27236", "title": "The Last of Us" },
+      "tv:1399": { "topic_id": "27100", "title": "Game of Thrones" }
     },
     "FILMES_INTERNACIONAIS": {
-      "movie:637649": "24326", // Infiltrado (2021) BY Yatogam1
-      "movie:603692": "28111"  // Oppenheimer
-      /* ... Outros Filmes Internacionais aqui ... */
+      "movie:637649": { "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1" },
+      "movie:603692": { "topic_id": "28111", "title": "Oppenheimer (2023)" }
     },
     "FILMES_NACIONAIS": {
-      // ...
+      "movie:83256": { "topic_id": "29000", "title": "Tropa de Elite" },
+      "movie:3404": { "topic_id": "29001", "title": "Cidade de Deus" }
     }
   }
 }
-
-
