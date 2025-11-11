@@ -1,24 +1,20 @@
+// --- SEU ARQUIVO JSON NO GITHUB ---
 {
   "categorias": {
     "ANIMES_E_DESENHOS": {
-      "tv:130926": "30001",  // Exemplo: Jujutsu Kaisen
-      "movie:14105": "30002" // Exemplo: Ponyo
-      /* ... Outros Animes/Desenhos aqui ... */
+      // ...
     },
     "SERIES": {
-      "tv:85848": "27236",    // The Last of Us
-      "tv:1399": "27100"      // Game of Thrones
-      /* ... Outras Séries aqui ... */
+      // ...
     },
     "FILMES_INTERNACIONAIS": {
       "movie:637649": "24326", // Infiltrado (2021) BY Yatogam1
-      "movie:603692": "28111"   // Oppenheimer
+      "movie:603692": "28111"  // Oppenheimer
       /* ... Outros Filmes Internacionais aqui ... */
     },
     "FILMES_NACIONAIS": {
-      "movie:83256": "29000", // Exemplo: Tropa de Elite
-      "movie:3404": "29001"   // Exemplo: Cidade de Deus
-      /* ... Outros Filmes Nacionais aqui ... */
+      // ...
     }
   }
 }
+// --- FIM DO SEU ARQUIVO JSON ---
