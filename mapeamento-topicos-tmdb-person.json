@@ -5,8 +5,8 @@
       "movie:14105": { "topic_id": "30002", "title": "Ponyo" }
     },
     "SERIES": {
-      "tv:85848": { "topic_id": "27236", "title": "The Last of Us" },
-      "tv:1399": { "topic_id": "27100", "title": "Game of Thrones" }
+      "tv:100088": { "topic_id": "27236", "title": "The Last of Us BY Yatogam" },
+      "tv:66732": { "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid" }
     },
     "FILMES_INTERNACIONAIS": {
       "movie:637649": { "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1" },
@@ -18,3 +18,4 @@
     }
   }
 }
+
