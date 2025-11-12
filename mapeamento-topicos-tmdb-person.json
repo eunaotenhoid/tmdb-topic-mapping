@@ -14,8 +14,11 @@
       "tv:709": { "topic_id": "26153", "title": "Frango Robô BY Yatogam" },
       "tv:478": { "topic_id": "32196", "title": "Capitão Planeta BY Yatogam" },
       "tv:197052": { "topic_id": "33147", "title": "De Onde Vem? BY Yatogam" },
-      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" },
-      "tv:126506": { "topic_id": "25003", "title": "Smiling Friends BY Yatogam" }
+      "tv:126506": { "topic_id": "25003", "title": "Smiling Friends BY Yatogam" },
+      "tv:931": { "topic_id": "3150", "title": "He-Man e Os Defensores do Universo BY Yatogam" }
+    },
+    "LONGAS_ANIMES_DESENHOS": {
+      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
     },
     "SERIES": {
       "tv:100088": { "topic_id": "27236", "title": "The Last of Us BY Yatogam" },
@@ -26,9 +29,22 @@
       "tv:2289": { "topic_id": "33148", "title": "SeaQuest: Missão Submarina BY Yatogam" },
       "tv:225171": { "topic_id": "33131", "title": "Pluribus BY Troidex" },
       "tv:110492": { "topic_id": "24769", "title": "Pacificador BY Troidex" },
+      "tv:4239": { "topic_id": "32072", "title": "Um Amor de Familia BY Yatogam" },
+      "tv:549": { "topic_id": "26643", "title": "Lei & Ordem BY Yatogam" },
+      "tv:2734": { "topic_id": "21303", "title": "Lei & Ordem: Unidade de Vítimas Especiais BY Yatogam" },
       "tv:66732": { "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid" }
     },
+    "TOKUSATSUS": {
+      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+    },
+    "DORAMAS": {
+      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+    },
+    "NOVELAS": {
+      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+    },
     "FILMES_INTERNACIONAIS": {
+      "movie:604079": { "topic_id": "33151", "title": "A Longa Marcha: Caminhe ou Morra (2025) BY eunaumtenhoid" },
       "movie:637649": { "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1" },
       "movie:1197306": { "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1" }
     },
@@ -38,6 +54,7 @@
     }
   }
 }
+
 
 
 
