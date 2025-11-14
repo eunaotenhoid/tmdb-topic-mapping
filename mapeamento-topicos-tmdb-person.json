@@ -4,8 +4,8 @@
       "tv:37584": { "topic_id": "33141", "title": "Ikkitousen - Os Anjos Guerreiros BY Troidex" },
       "tv:88044": { "topic_id": "33143", "title": "Maou-sama Retry! BY Yusuke FLA" },
       "tv:461499": { "topic_id": "33140", "title": "Rokudenashi Blues 1993 BY Yusuke FLA" },
-      "tv:130926": { "topic_id": "30001", "title": "Rokudenashi Blues 1993" },
-      "tv:130926": { "topic_id": "30001", "title": "Jujutsu Kaisen" },
+      "tv:56387": { "topic_id": "33114", "title": "Hokuto no Ken BY Leonhart" },
+      "tv:262259": { "topic_id": "33049", "title": "WANDANCE BY Yatogam" },
       "movie:14105": { "topic_id": "30002", "title": "Ponyo" }
     },
     "DESENHOS": {
@@ -15,9 +15,18 @@
       "tv:478": { "topic_id": "32196", "title": "Capitão Planeta BY Yatogam" },
       "tv:197052": { "topic_id": "33147", "title": "De Onde Vem? BY Yatogam" },
       "tv:126506": { "topic_id": "25003", "title": "Smiling Friends BY Yatogam" },
+      "tv:2190": { "topic_id": "26188", "title": "South Park BY Troidex" },
+      "tv:131378": { "topic_id": "28739", "title": "Hora de Aventura com Fionna e Cake BY Yatogam" },
+      "tv:65334": { "topic_id": "33072", "title": "Miraculous: As Aventuras de Ladybug BY bildebero" },
+      "tv:136342": { "topic_id": "33087", "title": "Disney Twisted-Wonderland: A Série BY bildebero" },
+      "tv:212989": { "topic_id": "33158", "title": " Ninjago: Ascensão dos Dragões BY bildebero" },
+     "tv:66695": { "topic_id": "17235", "title": "As Trigêmeas BY Paulo7 e rogerio222" },
+    
       "tv:931": { "topic_id": "3150", "title": "He-Man e Os Defensores do Universo BY Yatogam" }
     },
     "LONGAS_ANIMES_DESENHOS": {
+      "movie:645757": { "topic_id": "33156", "title": " Aquele Natal BY TwinJBrother" },
+      "movie:170687": { "topic_id": "33157", "title": " Os Boxtrolls BY TwinJBrother" },
       "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
     },
     "SERIES": {
@@ -32,20 +41,28 @@
       "tv:4239": { "topic_id": "32072", "title": "Um Amor de Familia BY Yatogam" },
       "tv:549": { "topic_id": "26643", "title": "Lei & Ordem BY Yatogam" },
       "tv:2734": { "topic_id": "21303", "title": "Lei & Ordem: Unidade de Vítimas Especiais BY Yatogam" },
+      "tv:71887": { "topic_id": "14241", "title": "Marlon BY eunaumtenhoid" },
+      "tv:4018": { "topic_id": "25859", "title": "Contratempos BY Yatogam" },
+      "tv:221079": { "topic_id": "33048", "title": "A Última Fronteira BY Yatogam" },
+      "tv:34415": { "topic_id": "33160", "title": "The Killing - Além de um Crime BY eunaumtenhoid" },
       "tv:66732": { "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid" }
     },
     "TOKUSATSUS": {
-      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+      "tv:295434": { "topic_id": "32971", "title": "Kamen Rider ZEZTZ BY  Paulo7 e rogerio222" }
     },
     "DORAMAS": {
-      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+      "tv:239385": { "topic_id": "33152", "title": "O Manipulado BY eunaumtenhoid" },
+      "tv:252193": { "topic_id": "33161", "title": "Até o Último Samurai BY  eunaumtenhoid" }
     },
     "NOVELAS": {
-      "movie:306757": { "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim" }
+      "tv:66825": { "topic_id": "33063", "title": "A Terra Prometida BY Charles" },
+      "tv:212350": { "topic_id": "33153", "title": "A Infância de Romeu e Julieta BY TwinJBrother" }
     },
     "FILMES_INTERNACIONAIS": {
       "movie:604079": { "topic_id": "33151", "title": "A Longa Marcha: Caminhe ou Morra (2025) BY eunaumtenhoid" },
       "movie:637649": { "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1" },
+      "movie:209112": { "topic_id": "10605", "title": "Batman vs Superman: A Origem da Justiça (2016) BY eunaumtenhoid" },
+      
       "movie:1197306": { "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1" }
     },
     "FILMES_NACIONAIS": {
@@ -54,6 +71,7 @@
     }
   }
 }
+
 
 
 
