@@ -1,489 +1,92 @@
 {
-    "categorias": {
-        "ANIMES": {
-            "tv:37584": [
-                {
-                    "topic_id": "33141",
-                    "title": "Ikkitousen - Os Anjos Guerreiros BY Troidex",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:88044": [
-                {
-                    "topic_id": "33143",
-                    "title": "Maou-sama Retry! BY Yusuke FLA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:461499": [
-                {
-                    "topic_id": "33140",
-                    "title": "Rokudenashi Blues 1993 BY Yusuke FLA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:56387": [
-                {
-                    "topic_id": "33114",
-                    "title": "Hokuto no Ken BY Leonhart",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:262259": [
-                {
-                    "topic_id": "33049",
-                    "title": "WANDANCE BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:45418": [
-                {
-                    "topic_id": "33162",
-                    "title": "Marvel Anime: Homem de Ferro BY Troidex",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:285788": [
-                {
-                    "topic_id": "32975",
-                    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai BY Troidex",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:1310672": [
-                {
-                    "topic_id": "33164",
-                    "title": "FUUTO PI: Portrait of Kamen Rider Skull BY malho / Paulo7 / rogerio222",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:85940": [
-                {
-                    "topic_id": "16584",
-                    "title": "7seeds BY RafaelSVA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:77778": [
-                {
-                    "topic_id": "12758",
-                    "title": "A.I.C.O. Incarnation BY RafaelSVA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:258901": [
-                {
-                    "topic_id": "33050",
-                    "title": "SANDA BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:253811": [
-                {
-                    "topic_id": "32557",
-                    "title": "Tougen Anki BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "DESENHOS": {
-            "tv:45140": [
-                {
-                    "topic_id": "29349",
-                    "title": "Os Jovens Titãs em Ação! BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:5687": [
-                {
-                    "topic_id": "31396",
-                    "title": "Os Smurfs BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:709": [
-                {
-                    "topic_id": "26153",
-                    "title": "Frango Robô BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:478": [
-                {
-                    "topic_id": "32196",
-                    "title": "Capitão Planeta BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:197052": [
-                {
-                    "topic_id": "33147",
-                    "title": "De Onde Vem? BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:126506": [
-                {
-                    "topic_id": "25003",
-                    "title": "Smiling Friends BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:2190": [
-                {
-                    "topic_id": "26188",
-                    "title": "South Park BY Troidex",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:131378": [
-                {
-                    "topic_id": "28739",
-                    "title": "Hora de Aventura com Fionna e Cake BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:65334": [
-                {
-                    "topic_id": "33072",
-                    "title": "Miraculous: As Aventuras de Ladybug BY bildebero",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:136342": [
-                {
-                    "topic_id": "33087",
-                    "title": "Disney Twisted-Wonderland: A Série BY bildebero",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:212989": [
-                {
-                    "topic_id": "33158",
-                    "title": " Ninjago: Ascensão dos Dragões BY bildebero",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:66695": [
-                {
-                    "topic_id": "17235",
-                    "title": "As Trigêmeas BY Paulo7 e rogerio222",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:286170": [
-                {
-                    "topic_id": "33163",
-                    "title": "Wylde Pak BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:61886": [
-                {
-                    "topic_id": "15945",
-                    "title": "As Aventuras do Gato de Botas BY RafaelSVA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:73021": [
-                {
-                    "topic_id": "14248",
-                    "title": "(Des)encanto BY RafaelSVA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:10490": [
-                {
-                    "topic_id": "10527",
-                    "title": "Os Cãezinhos do Canil BY Yatogam1",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:95599": [
-                {
-                    "topic_id": "18679",
-                    "title": "Kipo e os Animonstros BY RafaelSVA",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:931": [
-                {
-                    "topic_id": "3150",
-                    "title": "He-Man e Os Defensores do Universo BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "LONGAS_ANIMES_DESENHOS": {
-            "movie:645757": [
-                {
-                    "topic_id": "33156",
-                    "title": " Aquele Natal BY TwinJBrother",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:170687": [
-                {
-                    "topic_id": "33157",
-                    "title": " Os Boxtrolls BY TwinJBrother",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:12144": [
-                {
-                    "topic_id": "10032",
-                    "title": " Em Busca do Vale Encantado (1988) BY galego83",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:306757": [
-                {
-                    "topic_id": "33138",
-                    "title": "PAPAI NOEL E AS FADAS BY  jimjim",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "SERIES": {
-            "tv:100088": [
-                {
-                    "topic_id": "27236",
-                    "title": "The Last of Us BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:97951": [
-                {
-                    "topic_id": "33146",
-                    "title": "O Dono de Kingstown BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:1617": [
-                {
-                    "topic_id": "33145",
-                    "title": "Kingdom Hospital BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:226637": [
-                {
-                    "topic_id": "31786",
-                    "title": "Uma Mente Excepcional BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:153312": [
-                {
-                    "topic_id": "33047",
-                    "title": "Tulsa King BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:2289": [
-                {
-                    "topic_id": "33148",
-                    "title": "SeaQuest: Missão Submarina BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:225171": [
-                {
-                    "topic_id": "33131",
-                    "title": "Pluribus BY Troidex",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:110492": [
-                {
-                    "topic_id": "24769",
-                    "title": "Pacificador BY Troidex",
-                    "qualidade": "WEB-DL 1080p"
-                },
-                {
-                    "topic_id": "32586",
-                    "title": "Pacificador BY FreddieGellar",
-                    "qualidade": "WEB-DL 2160p"
-                }
-            ],
-            "tv:4239": [
-                {
-                    "topic_id": "32072",
-                    "title": "Um Amor de Familia BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:549": [
-                {
-                    "topic_id": "26643",
-                    "title": "Lei & Ordem BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:2734": [
-                {
-                    "topic_id": "21303",
-                    "title": "Lei & Ordem: Unidade de Vítimas Especiais BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:71887": [
-                {
-                    "topic_id": "14241",
-                    "title": "Marlon BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:4018": [
-                {
-                    "topic_id": "25859",
-                    "title": "Contratempos BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:221079": [
-                {
-                    "topic_id": "33048",
-                    "title": "A Última Fronteira BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:34415": [
-                {
-                    "topic_id": "33160",
-                    "title": "The Killing - Além de um Crime BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:105590": [
-                {
-                    "topic_id": "16625",
-                    "title": "Chespirito (Clube do Chaves) BY mcbenzi/Yatogam1",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:34307": [
-                {
-                    "topic_id": "30648",
-                    "title": "Shameless (2011) BY Yatogam",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:66732": [
-                {
-                    "topic_id": "20270",
-                    "title": "Stranger Things BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "TOKUSATSUS": {
-            "tv:295434": [
-                {
-                    "topic_id": "32971",
-                    "title": "Kamen Rider ZEZTZ BY  Paulo7 e rogerio222",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "DORAMAS": {
-            "tv:239385": [
-                {
-                    "topic_id": "33152",
-                    "title": "O Manipulado BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:252193": [
-                {
-                    "topic_id": "33161",
-                    "title": "Até o Último Samurai BY  eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "NOVELAS": {
-            "tv:66825": [
-                {
-                    "topic_id": "33063",
-                    "title": "A Terra Prometida BY Charles",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "tv:212350": [
-                {
-                    "topic_id": "33153",
-                    "title": "A Infância de Romeu e Julieta BY TwinJBrother",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "FILMES_INTERNACIONAIS": {
-            "movie:604079": [
-                {
-                    "topic_id": "33151",
-                    "title": "A Longa Marcha: Caminhe ou Morra (2025) BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:637649": [
-                {
-                    "topic_id": "24326",
-                    "title": "Infiltrado (2021) BY Yatogam1",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:209112": [
-                {
-                    "topic_id": "10605",
-                    "title": "Batman vs Superman: A Origem da Justiça (2016) BY eunaumtenhoid",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:120": [
-                {
-                    "topic_id": "32560",
-                    "title": "O Senhor dos Anéis: A Sociedade do Anel  (Extended Edition) (2001) BY FreddieGellar",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:121": [
-                {
-                    "topic_id": "32561",
-                    "title": "O Senhor dos Anéis: As Duas Torres (Extended Edition) (2002) BY FreddieGellar",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:122": [
-                {
-                    "topic_id": "32562",
-                    "title": "O Senhor dos Anéis: O Retorno do Rei (Extended Edition) (2003) BY FreddieGellar",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:1197306": [
-                {
-                    "topic_id": "32297",
-                    "title": "Resgate Implacável (2025) BY Yatogam1",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        },
-        "FILMES_NACIONAIS": {
-            "movie:83256": [
-                {
-                    "topic_id": "29000",
-                    "title": "Tropa de Elite",
-                    "qualidade": "WEB-DL"
-                }
-            ],
-            "movie:3404": [
-                {
-                    "topic_id": "29001",
-                    "title": "Cidade de Deus",
-                    "qualidade": "WEB-DL"
-                }
-            ]
-        }
+  "categorias": {
+    "ANIMES": {
+      "tv:37584": [{ "topic_id": "33141", "title": "Ikkitousen - Os Anjos Guerreiros BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:88044": [{ "topic_id": "33143", "title": "Maou-sama Retry! BY Yusuke FLA", "qualidade": "WEB-DL" }],
+      "tv:461499": [{ "topic_id": "33140", "title": "Rokudenashi Blues 1993 BY Yusuke FLA", "qualidade": "WEB-DL" }],
+      "tv:56387": [{ "topic_id": "33114", "title": "Hokuto no Ken BY Leonhart", "qualidade": "WEB-DL" }],
+      "tv:262259": [{ "topic_id": "33049", "title": "WANDANCE BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:45418": [{ "topic_id": "33162", "title": "Marvel Anime: Homem de Ferro BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:285788": [{ "topic_id": "32975", "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:1310672": [{ "topic_id": "33164", "title": "FUUTO PI: Portrait of Kamen Rider Skull BY malho / Paulo7 / rogerio222", "qualidade": "WEB-DL" }],
+      "tv:85940": [{ "topic_id": "16584", "title": "7seeds BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:77778": [{ "topic_id": "12758", "title": "A.I.C.O. Incarnation BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:258901": [{ "topic_id": "33050", "title": "SANDA BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:253811": [{ "topic_id": "32557", "title": "Tougen Anki BY Yatogam", "qualidade": "WEB-DL" }]
+    },
+    "DESENHOS": {
+      "tv:45140": [{ "topic_id": "29349", "title": "Os Jovens Titãs em Ação! BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:5687": [{ "topic_id": "31396", "title": "Os Smurfs BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:709": [{ "topic_id": "26153", "title": "Frango Robô BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:478": [{ "topic_id": "32196", "title": "Capitão Planeta BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:197052": [{ "topic_id": "33147", "title": "De Onde Vem? BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:126506": [{ "topic_id": "25003", "title": "Smiling Friends BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:2190": [{ "topic_id": "26188", "title": "South Park BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:131378": [{ "topic_id": "28739", "title": "Hora de Aventura com Fionna e Cake BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:65334": [{ "topic_id": "33072", "title": "Miraculous: As Aventuras de Ladybug BY bildebero", "qualidade": "WEB-DL" }],
+      "tv:136342": [{ "topic_id": "33087", "title": "Disney Twisted-Wonderland: A Série BY bildebero", "qualidade": "WEB-DL" }],
+      "tv:212989": [{ "topic_id": "33158", "title": " Ninjago: Ascensão dos Dragões BY bildebero", "qualidade": "WEB-DL" }],
+      "tv:66695": [{ "topic_id": "17235", "title": "As Trigêmeas BY Paulo7 e rogerio222", "qualidade": "WEB-DL" }],
+      "tv:286170": [{ "topic_id": "33163", "title": "Wylde Pak BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:61886": [{ "topic_id": "15945", "title": "As Aventuras do Gato de Botas BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:73021": [{ "topic_id": "14248", "title": "(Des)encanto BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:10490": [{ "topic_id": "10527", "title": "Os Cãezinhos do Canil BY Yatogam1", "qualidade": "WEB-DL" }],
+      "tv:95599": [{ "topic_id": "18679", "title": "Kipo e os Animonstros BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:931": [{ "topic_id": "3150", "title": "He-Man e Os Defensores do Universo BY Yatogam", "qualidade": "WEB-DL" }]
+    },
+    "LONGAS_ANIMES_DESENHOS": {
+      "movie:645757": [{ "topic_id": "33156", "title": " Aquele Natal BY TwinJBrother", "qualidade": "WEB-DL" }],
+      "movie:170687": [{ "topic_id": "33157", "title": " Os Boxtrolls BY TwinJBrother", "qualidade": "WEB-DL" }],
+      "movie:12144": [{ "topic_id": "10032", "title": " Em Busca do Vale Encantado (1988) BY galego83", "qualidade": "WEB-DL" }],
+      "movie:306757": [{ "topic_id": "33138", "title": "PAPAI NOEL E AS FADAS BY  jimjim", "qualidade": "WEB-DL" }]
+    },
+    "SERIES": {
+      "tv:100088": [{ "topic_id": "27236", "title": "The Last of Us BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:97951": [{ "topic_id": "33146", "title": "O Dono de Kingstown BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:1617": [{ "topic_id": "33145", "title": "Kingdom Hospital BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:226637": [{ "topic_id": "31786", "title": "Uma Mente Excepcional BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:153312": [{ "topic_id": "33047", "title": "Tulsa King BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:2289": [{ "topic_id": "33148", "title": "SeaQuest: Missão Submarina BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:225171": [{ "topic_id": "33131", "title": "Pluribus BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:110492": [{ "topic_id": "24769", "title": "Pacificador BY Troidex", "qualidade": "WEB-DL 1080p" },
+        { "topic_id": "32586", "title": "Pacificador BY FreddieGellar", "qualidade": "WEB-DL 2160p" }],
+      "tv:4239": [{ "topic_id": "32072", "title": "Um Amor de Familia BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:549": [{ "topic_id": "26643", "title": "Lei & Ordem BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:2734": [{ "topic_id": "21303", "title": "Lei & Ordem: Unidade de Vítimas Especiais BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:71887": [{ "topic_id": "14241", "title": "Marlon BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:4018": [{ "topic_id": "25859", "title": "Contratempos BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:221079": [{ "topic_id": "33048", "title": "A Última Fronteira BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:34415": [{ "topic_id": "33160", "title": "The Killing - Além de um Crime BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:105590": [{ "topic_id": "16625", "title": "Chespirito (Clube do Chaves) BY mcbenzi/Yatogam1", "qualidade": "WEB-DL" }],
+      "tv:34307": [{ "topic_id": "30648", "title": "Shameless (2011) BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:66732": [{ "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid", "qualidade": "WEB-DL" }]
+    },
+    "TOKUSATSUS": {
+      "tv:295434": [{ "topic_id": "32971", "title": "Kamen Rider ZEZTZ BY  Paulo7 e rogerio222", "qualidade": "WEB-DL" }]
+    },
+    "DORAMAS": {
+      "tv:239385": [{ "topic_id": "33152", "title": "O Manipulado BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "tv:252193": [{ "topic_id": "33161", "title": "Até o Último Samurai BY  eunaumtenhoid", "qualidade": "WEB-DL" }]
+    },
+    "NOVELAS": {
+      "tv:66825": [{ "topic_id": "33063", "title": "A Terra Prometida BY Charles", "qualidade": "WEB-DL" }],
+      "tv:212350": [{ "topic_id": "33153", "title": "A Infância de Romeu e Julieta BY TwinJBrother", "qualidade": "WEB-DL" }]
+    },
+    "FILMES_INTERNACIONAIS": {
+      "movie:604079": [{ "topic_id": "33151", "title": "A Longa Marcha: Caminhe ou Morra (2025) BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "movie:637649": [{ "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1", "qualidade": "WEB-DL" }],
+      "movie:209112": [{ "topic_id": "10605", "title": "Batman vs Superman: A Origem da Justiça (2016) BY eunaumtenhoid", "qualidade": "WEB-DL" }],
+      "movie:120": [{ "topic_id": "32560", "title": "O Senhor dos Anéis: A Sociedade do Anel  (Extended Edition) (2001) BY FreddieGellar", "qualidade": "WEB-DL" }],
+      "movie:121": [{ "topic_id": "32561", "title": "O Senhor dos Anéis: As Duas Torres (Extended Edition) (2002) BY FreddieGellar", "qualidade": "WEB-DL" }],
+      "movie:122": [{ "topic_id": "32562", "title": "O Senhor dos Anéis: O Retorno do Rei (Extended Edition) (2003) BY FreddieGellar", "qualidade": "WEB-DL" }],
+      "movie:1197306": [{ "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1", "qualidade": "WEB-DL" }]
+    },
+    "FILMES_NACIONAIS": {
+      "movie:83256": [{ "topic_id": "29000", "title": "Tropa de Elite", "qualidade": "WEB-DL" }],
+      "movie:3404": [{ "topic_id": "29001", "title": "Cidade de Deus", "qualidade": "WEB-DL" }]
     }
+  }
 }
+
+
+
