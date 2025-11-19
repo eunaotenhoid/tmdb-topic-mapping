@@ -48,7 +48,8 @@
       "tv:153312": [{ "topic_id": "33047", "title": "Tulsa King BY Yatogam", "qualidade": "WEB-DL" }],
       "tv:2289": [{ "topic_id": "33148", "title": "SeaQuest: Missão Submarina BY Yatogam", "qualidade": "WEB-DL" }],
       "tv:225171": [{ "topic_id": "33131", "title": "Pluribus BY Troidex", "qualidade": "WEB-DL" }],
-      "tv:110492": [{ "topic_id": "24769", "title": "Pacificador BY Troidex", "qualidade": "WEB-DL" }],
+      "tv:110492": [{ "topic_id": "24769", "title": "Pacificador BY Troidex", "qualidade": "WEB-DL 1080p" }],
+      "tv:110492": [{ "topic_id": "32586", "title": "Pacificador BY FreddieGellar", "qualidade": "WEB-DL 2160p" }],
       "tv:4239": [{ "topic_id": "32072", "title": "Um Amor de Familia BY Yatogam", "qualidade": "WEB-DL" }],
       "tv:549": [{ "topic_id": "26643", "title": "Lei & Ordem BY Yatogam", "qualidade": "WEB-DL" }],
       "tv:2734": [{ "topic_id": "21303", "title": "Lei & Ordem: Unidade de Vítimas Especiais BY Yatogam", "qualidade": "WEB-DL" }],
@@ -86,3 +87,4 @@
     }
   }
 }
+
