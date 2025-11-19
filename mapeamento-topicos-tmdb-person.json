@@ -12,6 +12,8 @@
       "tv:85940": [{ "topic_id": "16584", "title": "7seeds BY RafaelSVA", "qualidade": "WEB-DL" }],
       "tv:77778": [{ "topic_id": "12758", "title": "A.I.C.O. Incarnation BY RafaelSVA", "qualidade": "WEB-DL" }],
       "tv:258901": [{ "topic_id": "33050", "title": "SANDA BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:138734": [{ "topic_id": "33166", "title": "Fortune Quest BY YusukeFLA", "qualidade": "WEB-DL" }],
+      
       "tv:253811": [{ "topic_id": "32557", "title": "Tougen Anki BY Yatogam", "qualidade": "WEB-DL" }]
     },
     "DESENHOS": {
@@ -32,6 +34,8 @@
       "tv:73021": [{ "topic_id": "14248", "title": "(Des)encanto BY RafaelSVA", "qualidade": "WEB-DL" }],
       "tv:10490": [{ "topic_id": "10527", "title": "Os Cãezinhos do Canil BY Yatogam1", "qualidade": "WEB-DL" }],
       "tv:95599": [{ "topic_id": "18679", "title": "Kipo e os Animonstros BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:94462": [{ "topic_id": "17724", "title": "As Lendas - Mestres dos Mitos BY RafaelSVA", "qualidade": "WEB-DL" }],
+      "tv:60877": [{ "topic_id": "32364", "title": "Bravos Guerreiros BY bildebero", "qualidade": "WEB-DL" }],
       "tv:931": [{ "topic_id": "3150", "title": "He-Man e Os Defensores do Universo BY Yatogam", "qualidade": "WEB-DL" }]
     },
     "LONGAS_ANIMES_DESENHOS": {
@@ -58,6 +62,7 @@
       "tv:34415": [{ "topic_id": "33160", "title": "The Killing - Além de um Crime BY eunaumtenhoid", "qualidade": "WEB-DL" }],
       "tv:105590": [{ "topic_id": "16625", "title": "Chespirito (Clube do Chaves) BY mcbenzi/Yatogam1", "qualidade": "WEB-DL" }],
       "tv:34307": [{ "topic_id": "30648", "title": "Shameless (2011) BY Yatogam", "qualidade": "WEB-DL" }],
+      "tv:712": [{ "topic_id": "32077", "title": "Designing Women BY PotterFace", "qualidade": "WEB-DL" }],
       "tv:66732": [{ "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid", "qualidade": "WEB-DL" }]
     },
     "TOKUSATSUS": {
@@ -86,6 +91,7 @@
     }
   }
 }
+
 
 
 
