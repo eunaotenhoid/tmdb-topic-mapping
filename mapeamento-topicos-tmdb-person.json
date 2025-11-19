@@ -6,7 +6,13 @@
       "tv:461499": { "topic_id": "33140", "title": "Rokudenashi Blues 1993 BY Yusuke FLA" },
       "tv:56387": { "topic_id": "33114", "title": "Hokuto no Ken BY Leonhart" },
       "tv:262259": { "topic_id": "33049", "title": "WANDANCE BY Yatogam" },
-      "movie:14105": { "topic_id": "30002", "title": "Ponyo" }
+      "tv:45418": { "topic_id": "33162", "title": "Marvel Anime: Homem de Ferro BY Troidex" },
+      "tv:285788": { "topic_id": "32975", "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai BY Troidex" },
+      "tv:1310672": { "topic_id": "33164", "title": "FUUTO PI: Portrait of Kamen Rider Skull BY malho / Paulo7 / rogerio222" },
+      "tv:85940": { "topic_id": "16584", "title": "7seeds BY RafaelSVA" },
+      "tv:77778": { "topic_id": "12758", "title": "A.I.C.O. Incarnation BY RafaelSVA" },
+      "tv:258901": { "topic_id": "33050", "title": "SANDA BY Yatogam" },
+      "tv:253811": { "topic_id": "32557", "title": "Tougen Anki BY Yatogam" }
     },
     "DESENHOS": {
       "tv:45140": { "topic_id": "29349", "title": "Os Jovens Titãs em Ação! BY Yatogam" },
@@ -20,8 +26,12 @@
       "tv:65334": { "topic_id": "33072", "title": "Miraculous: As Aventuras de Ladybug BY bildebero" },
       "tv:136342": { "topic_id": "33087", "title": "Disney Twisted-Wonderland: A Série BY bildebero" },
       "tv:212989": { "topic_id": "33158", "title": " Ninjago: Ascensão dos Dragões BY bildebero" },
-     "tv:66695": { "topic_id": "17235", "title": "As Trigêmeas BY Paulo7 e rogerio222" },
-    
+      "tv:66695": { "topic_id": "17235", "title": "As Trigêmeas BY Paulo7 e rogerio222" },
+      "tv:286170": { "topic_id": "33163", "title": "Wylde Pak BY eunaumtenhoid" },
+      "tv:61886": { "topic_id": "15945", "title": "As Aventuras do Gato de Botas BY RafaelSVA" },
+      "tv:73021": { "topic_id": "14248", "title": "(Des)encanto BY RafaelSVA" },
+      "tv:10490": { "topic_id": "10527", "title": "Os Cãezinhos do Canil BY Yatogam1" },
+      "tv:95599": { "topic_id": "18679", "title": "Kipo e os Animonstros BY RafaelSVA" },
       "tv:931": { "topic_id": "3150", "title": "He-Man e Os Defensores do Universo BY Yatogam" }
     },
     "LONGAS_ANIMES_DESENHOS": {
@@ -46,6 +56,9 @@
       "tv:4018": { "topic_id": "25859", "title": "Contratempos BY Yatogam" },
       "tv:221079": { "topic_id": "33048", "title": "A Última Fronteira BY Yatogam" },
       "tv:34415": { "topic_id": "33160", "title": "The Killing - Além de um Crime BY eunaumtenhoid" },
+      "tv:105590": { "topic_id": "16625", "title": "Chespirito (Clube do Chaves) BY mcbenzi/Yatogam1" },
+      
+      "tv:34307": { "topic_id": "30648", "title": "Shameless (2011) BY Yatogam" },
       "tv:66732": { "topic_id": "20270", "title": "Stranger Things BY eunaumtenhoid" }
     },
     "TOKUSATSUS": {
@@ -63,6 +76,9 @@
       "movie:604079": { "topic_id": "33151", "title": "A Longa Marcha: Caminhe ou Morra (2025) BY eunaumtenhoid" },
       "movie:637649": { "topic_id": "24326", "title": "Infiltrado (2021) BY Yatogam1" },
       "movie:209112": { "topic_id": "10605", "title": "Batman vs Superman: A Origem da Justiça (2016) BY eunaumtenhoid" },
+      "movie:120": { "topic_id": "32560", "title": "O Senhor dos Anéis: A Sociedade do Anel  (Extended Edition) (2001) BY FreddieGellar" },
+      "movie:121": { "topic_id": "32561", "title": "O Senhor dos Anéis: As Duas Torres (Extended Edition) (2002) BY FreddieGellar" },
+      "movie:122": { "topic_id": "32562", "title": "O Senhor dos Anéis: O Retorno do Rei (Extended Edition) (2003) BY FreddieGellar" },
       
       "movie:1197306": { "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1" }
     },
@@ -72,6 +88,7 @@
     }
   }
 }
+
 
 
 
