@@ -109,8 +109,10 @@
       "movie:120": [{ "topic_id": "32560", "title": "O Senhor dos Anéis: A Sociedade do Anel  (Extended Edition) (2001) BY FreddieGellar", "qualidade": "WEB-DL" }],
       "movie:121": [{ "topic_id": "32561", "title": "O Senhor dos Anéis: As Duas Torres (Extended Edition) (2002) BY FreddieGellar", "qualidade": "WEB-DL" }],
       "movie:122": [{ "topic_id": "32562", "title": "O Senhor dos Anéis: O Retorno do Rei (Extended Edition) (2003) BY FreddieGellar", "qualidade": "WEB-DL" }],
+      "movie:9312": [{ "topic_id": "19612", "title": "Mortal Kombat (1995) BY Troidex", "qualidade": "BD REMUX" }],
       "movie:9823": [{ "topic_id": "33179", "title": "Mortal Kombat - A Aniquilação (1997) BY Troidex", "qualidade": "BD REMUX" }],
-       "movie:9312": [{ "topic_id": "19612", "title": "Mortal Kombat (1995) BY Troidex", "qualidade": "BD REMUX" }],
+      "movie:460465": [{ "topic_id": "23089", "title": "Mortal Kombat (2021) BY Troidex ", "qualidade": "WEB-DL" }],
+      "movie:931285": [{ "topic_id": "", "title": "Mortal Kombat (2026) BY ", "qualidade": "WEB-DL" }],
       "movie:1061474": [{ "topic_id": "32755", "title": "Superman (2025) BY malho", "qualidade": "WEB-DL" }],
       "movie:1523140": [{ "topic_id": "", "title": "Man of Tomorrow (2027) BY ", "qualidade": "WEB-DL" }],
       "movie:1242898": [{ "topic_id": "", "title": "Predador: Terras Selvagens (2025) BY ", "qualidade": "WEB-DL" }],
@@ -123,6 +125,7 @@
     }
   }
 }
+
 
 
 
