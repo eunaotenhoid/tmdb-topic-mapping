@@ -116,6 +116,7 @@
       "movie:1061474": [{ "topic_id": "32755", "title": "Superman (2025) BY malho", "qualidade": "WEB-DL" }],
       "movie:1523140": [{ "topic_id": "", "title": "Man of Tomorrow (2027) BY ", "qualidade": "WEB-DL" }],
       "movie:1242898": [{ "topic_id": "", "title": "Predador: Terras Selvagens (2025) BY ", "qualidade": "WEB-DL" }],
+      "movie:617126": [{ "topic_id": "33112", "title": "Quarteto Fantástico: Primeiros Passos (2025) BY bildebero", "qualidade": "WEB-DL 1080p" }, { "topic_id": "33112", "title": "Quarteto Fantástico: Primeiros Passos (2025) BY bildebero", "qualidade": "WEB-DL 2160p" }],
       "movie:1197306": [{ "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1", "qualidade": "WEB-DL" }]
     },
     "FILMES_NACIONAIS": {
@@ -125,6 +126,7 @@
     }
   }
 }
+
 
 
 
