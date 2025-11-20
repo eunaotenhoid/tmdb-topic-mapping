@@ -111,6 +111,7 @@
       "movie:122": [{ "topic_id": "32562", "title": "O Senhor dos Anéis: O Retorno do Rei (Extended Edition) (2003) BY FreddieGellar", "qualidade": "WEB-DL" }],
       "movie:9823": [{ "topic_id": "33179", "title": "Mortal Kombat - A Aniquilação (1997) BY Troidex", "qualidade": "BD REMUX" }],
       "movie:1061474": [{ "topic_id": "32755", "title": "Superman (2025) BY malho", "qualidade": "WEB-DL" }],
+      "movie:1523140": [{ "topic_id": "32755", "title": "Man of Tomorrow (2027) BY malho", "qualidade": "WEB-DL" }],
       "movie:1197306": [{ "topic_id": "32297", "title": "Resgate Implacável (2025) BY Yatogam1", "qualidade": "WEB-DL" }]
     },
     "FILMES_NACIONAIS": {
@@ -120,6 +121,7 @@
     }
   }
 }
+
 
 
 
